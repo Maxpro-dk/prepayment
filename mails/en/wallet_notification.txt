@@ -1,0 +1,17 @@
+[{shop_url}]
+
+Hi {customer}
+
+The amount of {movement_amount} has been {movement_operation} to your wallet.
+
+Summary :
+
+Movement : {movement_type}
+
+Old wallet balance : {wallet_balance_old}
+
+Amount {movement_operation} : {movement_amount}
+
+New wallet balance : {wallet_balance_new}
+
+{shop_name} [{shop_url}]

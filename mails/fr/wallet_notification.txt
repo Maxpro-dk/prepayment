@@ -1,0 +1,17 @@
+[{shop_url}]
+
+Bonjour {customer}
+
+La somme de {movement_amount} a été {movement_operation}e sur votre porte-monnaie.
+
+Récapitulatif :
+
+Mouvement : {movement_type}
+
+Ancien solde du porte-monnaie : {wallet_balance_old}
+
+Montant {movement_operation} : {movement_amount}
+
+Nouveau solde du porte-monnaie : {wallet_balance_new}
+
+{shop_name} [{shop_url}]

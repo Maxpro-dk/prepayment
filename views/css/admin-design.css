@@ -1,0 +1,85 @@
+.bootstrap #wallet_dashboard .nav {
+  background-color: rgba(148, 146, 161, 0.08);
+  padding: 10px;
+}
+
+.bootstrap #wallet_dashboard .nav li {
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.bootstrap #wallet_dashboard span.data_label {
+  color: #00aff0;
+}
+
+.bootstrap #wallet_dashboard .data_list_large {
+  padding: 0;
+  margin: 8px 0 10px 0;
+}
+
+.bootstrap #wallet_dashboard .data_list_large li {
+  padding: 6px 0;
+  position: relative;
+  border: none;
+  margin: 0;
+  list-style: none;
+}
+
+.bootstrap #wallet_dashboard .data_list_large .data_label {
+  line-height: 0.8em;
+}
+
+.bootstrap #wallet_dashboard .data_list_large .data_label small {
+  font-size: 0.6em;
+}
+
+.bootstrap #wallet_dashboard .data_list_large .data_value {
+  text-align: right;
+  line-height: 0.6em;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 8px 0 0 0;
+}
+
+.bootstrap #wallet_dashboard section>header {
+  padding: 3px 8px;
+  color: #fff;
+  font-size: 1.2em;
+  background-color: #00aff0;
+  margin: 0 0 3px 0;
+}
+
+.bootstrap #wallet_dashboard .data_list {
+  padding: 0;
+  margin: 0 0 10px 0;
+}
+
+.bootstrap #wallet_dashboard .data_list li {
+  position: relative;
+  display: block;
+  padding: 10px 15px;
+  margin-bottom: -1px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  list-style: none
+}
+
+.bootstrap  #wallet_dashboard .data_list li:first-child {
+  border-top-right-radius: 3px;
+  border-top-left-radius: 3px;
+}
+
+.bootstrap #wallet_dashboard .data_list li:last-child {
+  margin-bottom: 0;
+  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+
+.bootstrap #wallet_dashboard .data_list .data_value {
+  line-height: 39px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 0 10px 0 0;
+}

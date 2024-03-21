@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>prepayment</name>
+	<displayName><![CDATA[Porte-monnaie]]></displayName>
+	<version><![CDATA[2.4.0]]></version>
+	<description><![CDATA[Le porte-monnaie est un moyen de paiement simple et efficace avec la gestion des d&eacute;p&ocirc;ts de fonds, le r&egrave;glement des commandes et un syst&egrave;me de cadeaux intuitif pour d&eacute;velopper l&#039;activit&eacute; de votre boutique Prestashop.]]></description>
+	<author><![CDATA[Keyrnel]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
